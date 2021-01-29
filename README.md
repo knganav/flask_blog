@@ -2,11 +2,11 @@
 
 ## Install Required Packages
 ```
-  # virutal env
+# virutal env
   virtualenv -p python3 env
-  # activate 
+# activate 
   source env/bin/activate
-  # install requirement
+# install requirement
   pip install -r requirements.txt
 ```
 
